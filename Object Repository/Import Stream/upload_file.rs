@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_file</name>
+   <tag></tag>
+   <elementGuidId>3518d196-5c71-4571-aa2c-633a4ca9dd86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>C:\Users\Bujangkuu\Downloads\robloxtest2.mp4</value>
+      <webElementGuid>9610102f-95a6-4c6e-9e63-3d98f5605f3e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

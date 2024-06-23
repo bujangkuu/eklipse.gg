@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_a_clip_auto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc5e2940-5bbe-45d7-b4ad-6d08ce7d12c0</testCaseGuid>
+</TestCaseEntity>

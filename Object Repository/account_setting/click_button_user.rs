@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_button_user</name>
+   <tag></tag>
+   <elementGuidId>6534d0a6-dc85-47d6-8ebe-053a7febf3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[5]//i[@class='ic-user']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[5]//i[@class='ic-user']</value>
+      <webElementGuid>d4fd2807-6f75-453c-83c8-5bdfd8cbf79d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

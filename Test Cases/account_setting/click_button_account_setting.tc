@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_button_account_setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54528e4b-5bd8-4151-b693-780c4811f7ca</testCaseGuid>
+</TestCaseEntity>

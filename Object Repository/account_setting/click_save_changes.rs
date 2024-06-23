@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_save_changes</name>
+   <tag></tag>
+   <elementGuidId>16c83176-09d8-4462-89e2-d2bf447177c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;dashboard&quot;]/div[3]/div/div/div[1]/div[1]/div[3]/div[1]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;dashboard&quot;]/div[3]/div/div/div[1]/div[1]/div[3]/div[1]/div[3]/button</value>
+      <webElementGuid>622c9a00-b2f2-42ec-9d1d-e9c1c8517f1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

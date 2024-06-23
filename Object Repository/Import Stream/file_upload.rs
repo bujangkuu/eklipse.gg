@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>file_upload</name>
+   <tag></tag>
+   <elementGuidId>c8222b3e-c1ab-4abd-aaea-0a8e457992eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow These Steps:'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>726d3e72-e8a7-4e5f-915f-7123086e4653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-right</value>
+      <webElementGuid>02fbd9e5-78d8-420d-b710-e695ec8ec804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload a VideoUploadSelect your game*Select gamePlease select a gameVideo Title*Please insert stream titleI confirm this is my video and authorize Eklipse.gg to process itImport Now</value>
+      <webElementGuid>ccc82952-ba81-4106-87ef-39b22f1d1fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ek-get-stream-modal w-900 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;get-stream-modal-container&quot;]/div[@class=&quot;add-google-drive-stream-section upload-vod-section&quot;]/div[@class=&quot;content-right&quot;]</value>
+      <webElementGuid>a8ddbef3-6189-455b-9f35-a59d880c0017</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow These Steps:'])[1]/following::div[1]</value>
+      <webElementGuid>689032e1-e033-42b8-adc8-e494b2acddb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>84dda626-4719-4b81-b5d7-88ed222f1bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Upload a VideoUploadSelect your game*Select gamePlease select a gameVideo Title*Please insert stream titleI confirm this is my video and authorize Eklipse.gg to process itImport Now' or . = 'Upload a VideoUploadSelect your game*Select gamePlease select a gameVideo Title*Please insert stream titleI confirm this is my video and authorize Eklipse.gg to process itImport Now')]</value>
+      <webElementGuid>a182cfda-a903-45d8-b5bd-18b02b012d1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

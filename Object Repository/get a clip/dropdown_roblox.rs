@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_roblox</name>
+   <tag></tag>
+   <elementGuidId>7586a058-f3ce-4e2d-8e80-3bcd41b5e334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[241]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[241]</value>
+      <webElementGuid>4620d947-7bae-452a-a096-104a03bd45b6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

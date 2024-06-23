@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose_file</name>
+   <tag></tag>
+   <elementGuidId>b24ca8ee-d6db-4200-9408-0bf41b6c0bfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='formStreamUrl']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='formStreamUrl']</value>
+      <webElementGuid>e95e83ba-ded1-4f0c-9e78-c78adddb7886</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

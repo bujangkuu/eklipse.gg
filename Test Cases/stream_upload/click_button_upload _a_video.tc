@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>click_button_upload _a_video</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee20f619-4e2e-4725-ba02-7e6c77270043</testCaseGuid>
+</TestCaseEntity>

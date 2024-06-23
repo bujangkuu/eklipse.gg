@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>video_tittle</name>
+   <tag></tag>
+   <elementGuidId>0df62180-03fb-4f6f-a85b-7fe0b8332aac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='formStreamTitle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='formStreamTitle']</value>
+      <webElementGuid>f788d7c0-2abb-4ee8-83fd-0aa1c7248a04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

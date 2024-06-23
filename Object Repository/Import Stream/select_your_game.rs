@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_your_game</name>
+   <tag></tag>
+   <elementGuidId>9f2e4227-0a40-48f1-9ca8-17229725021c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[contains(.,'ROBLOX')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[contains(.,'ROBLOX')]</value>
+      <webElementGuid>912d4ea1-d705-49e1-80ab-c4489e6343fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

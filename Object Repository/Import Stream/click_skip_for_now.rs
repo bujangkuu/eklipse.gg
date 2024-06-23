@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_skip_for_now</name>
+   <tag></tag>
+   <elementGuidId>c8d384bc-f854-46b3-bb23-eb27c6cedd65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[5]/div/div/div/div/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[5]/div/div/div/div/div/button[1]</value>
+      <webElementGuid>82f0765a-e2a3-4ba6-b1ee-ff2aac687eb2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
